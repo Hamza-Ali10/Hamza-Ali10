@@ -25,10 +25,6 @@ Always open to collaboration and new ideas!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaalimorsi/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaalimorsi@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamzaalimorsi/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:hamzaalimorsi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-</p>
 
 ---
 
