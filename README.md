@@ -173,35 +173,13 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 ## 📡 Wireless & AI Research Focus
 
 ```text
-🔷 MIMO / Massive MIMO         🔷 RIS / IRS-Assisted Channels
-🔷 OFDM, QPSK, QAM             🔷 BER / SNR Performance Analysis
+🔷 MIMO / Massive MIMO          🔷 RIS / IRS-Assisted Channels
+🔷 OFDM, QPSK, QAM              🔷 BER / SNR Performance Analysis
 🔷 ML-Based Channel Estimation  🔷 Deep Learning for Signal Processing
 🔷 Supervised Classification    🔷 Unsupervised Anomaly Detection
 🔷 Reinforcement Learning (DQN) 🔷 TinyML / Edge AI Deployment
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hamza-Ali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ali10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hamza-Ali10&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Ali10&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
-</p>
-
----
 
 ## 📫 Contact
 
