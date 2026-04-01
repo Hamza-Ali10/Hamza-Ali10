@@ -39,7 +39,7 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 
 ## 🗂️ Project Repositories
 
-### ⚙️ RTL / FPGA / ASIC Design — 20 Projects
+### ⚙️ RTL / FPGA / ASIC Design 
 
 > Full RTL-to-GDS-II flow · SystemVerilog & Verilog · Synopsys DC + ICC2 + PrimeTime
 
@@ -70,7 +70,7 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 
 ---
 
-### 📡 Wireless Communication & DSP — 10 Projects
+### 📡 Wireless Communication 
 
 > MATLAB simulation + BER plots · SystemVerilog RTL · MATLAB↔RTL comparison testbench
 
@@ -91,7 +91,7 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 
 ---
 
-### 🤖 AI / Machine Learning — 20 Projects
+### 🤖 AI / Machine Learning 
 
 > PyTorch · TensorFlow/Lite · Scikit-learn · XGBoost · LightGBM · Optuna · SHAP
 
