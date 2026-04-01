@@ -166,7 +166,6 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 - 🎓 **GPA 4.0 / 4.0** — MEng Computer Engineering, Memorial University of Newfoundland  
 - 📜 **Graduation Grade: Excellent** — FPGA-Based Poseidon2 Accelerator with RISC-V ISA Extension  
 - 🏅 **Intel FPGA Certification** — Quartus, Altera SoC, Advanced Verilog HDL  
-- 📡 **50 Portfolio Projects** — RTL/ASIC (20) + Wireless DSP (10) + AI/ML (20)  
 
 ---
 
