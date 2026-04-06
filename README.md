@@ -184,7 +184,7 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 
 | | |
 |---|---|
-| 📧 Email | [hamabdelrehi@mun.ca](mailto:hamabdelrehi@mun.ca) |
+| 📧 Email | [hazmaalimorsi@gmail.com](mailto:hazmaalimorsi@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/hamzaalimorsi](https://www.linkedin.com/in/hamzaalimorsi/) |
 | 🐙 GitHub | [github.com/Hamza-Ali10](https://github.com/Hamza-Ali10) |
 | 📍 Location | St. John's, NL, Canada |
