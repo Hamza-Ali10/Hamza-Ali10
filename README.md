@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Ali Morsi Abdelrehim</h1>
+<h1 align="center">Hi 👋, I'm Hamza Abdelrehim</h1>
 
 <h3 align="center">
   MEng Computer Engineering · FPGA & ASIC Design · Wireless Communications · AI / ML
