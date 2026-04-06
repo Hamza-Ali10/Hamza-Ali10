@@ -160,7 +160,7 @@ I'm a **graduate researcher and engineer** at Memorial University of Newfoundlan
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Achievements
 
 - 🥇 **1st Place** — ASME Assiut puck-collection robot competition (led electrical team)
 - 🎓 **GPA 4.0 / 4.0** — MEng Computer Engineering, Memorial University of Newfoundland  
